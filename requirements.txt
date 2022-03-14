@@ -1,0 +1,9 @@
+Flask
+request
+render_template
+torch
+torchvision
+torch.nn
+torch.nn.functional
+torch.optim
+numpy
